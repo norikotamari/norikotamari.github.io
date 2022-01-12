@@ -25,12 +25,12 @@ Work experience
 * Spring 2020: Teaching Assistant
   * University of Arizona, USA
   * EPID 573A (Introduction to Epidemiology for Graduate online)
-  * homework review class
+  * Homework review class
 
 * Fall 2019: Teaching Assistant
   * University of Arizona, USA
   * EPID 309 (Introduction to Epidemiology for Undergraduate)
-  * homework review class
+  * Homework review class
 
 * 2017-2019: Research fellow
   * Department of Vector Ecology and Environment, Institute of Tropical Medicine, Nagasaki University, Japan
