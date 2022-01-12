@@ -27,18 +27,18 @@ Work experience
   * EPID 573A (Introduction to Epidemiology for Graduate online)
   * homework review class
 
-*  Fall 2019: Teaching Assistant
+* Fall 2019: Teaching Assistant
   * University of Arizona, USA
   * EPID 309 (Introduction to Epidemiology for Undergraduate)
   * homework review class
 
-*  2017-2019: Research fellow
+* 2017-2019: Research fellow
   * Department of Vector Ecology and Environment, Institute of Tropical Medicine, Nagasaki University, Japan
   * Developing a rapid diagnostic device for Plasmodium infection in western Kenya
   * Data management
   * Data analyses
 
-*  2010-2015: Clinical Research Coordinator
+* 2010-2015: Clinical Research Coordinator
   * Site Support Institute Co., Ltd, Tokyo, Japan
   * Supported the development of new drugs and medical devices
 
