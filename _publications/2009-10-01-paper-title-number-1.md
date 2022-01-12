@@ -1,7 +1,7 @@
 ---
 title: "Antimalarial bednet protection of children disappears when shared by three or more people in a high transmission setting of western Kenya"
 collection: publications
-date: 2019-09-10
+date: 2018-09-10
 citation: 'Tamari N, Minakawa N, Sonye GO, Awuor B, Kongere JO, Munga S, Larson PS. Antimalarial bednet protection of children disappears when shared by three or more people in a high transmission setting of western Kenya. 2018. <i>Parasitology</i> 1–9.'
 ---
 
