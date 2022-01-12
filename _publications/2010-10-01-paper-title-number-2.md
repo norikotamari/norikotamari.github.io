@@ -1,15 +1,8 @@
 ---
-title: "Paper Title Number 2"
+title: "Development of a quantitative, portable, and automated fluorescent blue-ray device-based malaria diagnostic equipment with an on-disc SiO 2 nanofiber filter"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2020-04-20
+citation: 'Yamamoto T, Hashimoto M, Nagatomi K, Nogami T, Sofue Y, Hayashi T, Ido Y, Yatsushiro S, Abe K, Kajimoto K, Tamari N, Awuor B, Sonye G, Kongere J, Munga S, Ohashi J, Oka H. Minakawa N, Kataoka M, Mita T. Development of a quantitative, portable, and automated fluorescent blue-ray device-based malaria diagnostic equipment with an on-disc SiO 2 nanofiber filter. <i>Scientific reports</i>. 2020;10(1):1-12.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](https://www.nature.com/articles/s41598-020-63615-2)
